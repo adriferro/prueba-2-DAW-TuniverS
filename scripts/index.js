@@ -1,7 +1,7 @@
 
 // Función para generar un color aleatorio en formato hexadecimal
 const generateRamdomColor = () => {
-    const color = "#" + Math.floor(Math.random() * 16777215).toString(16);
+    const color = '#' + Math.floor(Math.random() * 16777215).toString(16);
     console.log("Color hexadecimal generado: " + color);
     return color;
 
