@@ -13,6 +13,10 @@ video {
     border-width: 1rem;
 }
 
+img{
+    width: 75%;
+}
+
 a {
     color: black;
 }
