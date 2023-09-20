@@ -1,0 +1,31 @@
+body {
+    background-color: rosybrown;
+}
+
+p {
+    background-color: burlywood;
+}
+
+video {
+    width: 50%;
+    border-color: grey;
+    border: solid;
+    border-width: 1rem;
+}
+
+a {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    font-style: oblique;
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
